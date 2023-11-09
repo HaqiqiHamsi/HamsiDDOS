@@ -74,4 +74,4 @@ while True:
         threading.Thread(target=send_post_request).start()
 
         # Anlık ping durumu görmek için bekleme süresi
-        pass
+        
